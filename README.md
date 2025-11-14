@@ -1,5 +1,3 @@
-%md
-
 Previsão de Custos de Seguro de Saúde - Projeto de Ciência de Dados
 Definição do Problema
 O objetivo deste projeto é prever o valor de charges (cobrança) de um seguro de saúde com base em variáveis como idade, sexo, índice de massa corporal (BMI), número de filhos, tabagismo e região.
