@@ -83,7 +83,7 @@ Lasso Regression (L1): Regressão linear com regularização L1, que além de pr
 Todos os modelos foram treinados em 80% dos dados e testados nos 20% restantes.
 
 7. Avaliação e Validação
-8. 
+
 A avaliação dos modelos foi realizada através de múltiplas métricas complementares:
 
 Métricas de Erro:
@@ -109,6 +109,7 @@ Exame detalhado dos erros de predição através de:
 ° Análise temporal de resíduos.
 
 8. Feature Importance
+
 Para o modelo de melhor desempenho (Random Forest), realizamos análise de importância de features baseada na redução de impureza Gini. As 15 features mais importantes foram identificadas e ranqueadas, revelando que variáveis como is_smoker, age e bmi têm papel dominante nas predições.
 
 Esta análise fornece insights valiosos sobre quais fatores mais influenciam os custos de seguro, sendo útil tanto para interpretabilidade do modelo quanto para decisões de negócio.
